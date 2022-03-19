@@ -12,12 +12,12 @@
 
 <div>
   <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/html.svg">
-  <img width="50px" height="auto" color="#fff" src="https://github.com/Blaise28/Blaise28/blob/master/images/css3.svg">
+  <img width="50px" height="auto" color="#fff" src="https://github.com/Blaise28/Blaise28/blob/master/images/css3_light.svg">
   <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/JS.svg">
   <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/Sass.svg">
   <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/java.svg">
   <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/mysql.svg">
-  <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/github.svg">
+  <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/github_dark.svg">
   <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/VScode.svg">
 </div>
 
