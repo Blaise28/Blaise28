@@ -25,6 +25,8 @@
 
 [![Mes stats sur github](https://github-readme-stats.vercel.app/api?username=Blaise28)](https://github.com/Blaise28/github-readme-stats)
 
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaise28&theme=tokyonight)
 
 ## Me contacter :
 
@@ -33,7 +35,7 @@
 		<img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/gmail.svg">
 	</a>
 	<a href="">
-	  <img width="50px" height="auto"  src="https://github.com/Blaise28/Blaise28/blob/master/images/linkedin-icon-2.svg">
+	  <img width="40px" height="auto"  src="https://github.com/Blaise28/Blaise28/blob/master/images/linkedin-icon-2.svg">
 	</a>
 </div>
 
