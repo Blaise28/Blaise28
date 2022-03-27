@@ -21,6 +21,11 @@
   <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/VScode.svg">
 </div>
 
+<br><br>
+
+[![Mes stats sur github](https://github-readme-stats.vercel.app/api?username=Blaise28)](https://github.com/Blaise28/github-readme-stats)
+
+
 ## Me contacter :
 
  <div>
