@@ -34,7 +34,7 @@
 	<a href="mailto:manirakizablaise3@gmail.com">
 		<img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/gmail.svg">
 	</a>
-	<a href="https://www.linkedin.com/blaise-manirakiza28">
+	<a href="https://www.linkedin.com/in/blaise-manirakiza28">
 	  <img width="40px" height="auto"  src="https://github.com/Blaise28/Blaise28/blob/master/images/linkedin-icon-2.svg">
 	</a>
 </div>
