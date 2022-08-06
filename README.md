@@ -1,6 +1,8 @@
 # Hello Je suis Manirakiza Blaise 
 <div>
-  <img width="100px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/logo.svg">
+  <a href="https://blaise28.github.io/portfolio_beta/">
+  	<img width="100px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/logo.svg">
+  </a>
 </div>
 
 ## Developpeur web frontend
