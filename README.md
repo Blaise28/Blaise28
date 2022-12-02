@@ -1,49 +1,39 @@
-# Hello Je suis Manirakiza Blaise 
-<div>
+<h1 align="center">
+    Hello, I'm MANIRAKIZA Blaise
+    
+</h1>
+<div align="center">
   <a href="https://blaise28.github.io/portfolio_beta/">
   	<img width="100px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/logo.svg">
   </a>
 </div>
+<h3 align="center">Passionate about IT, in particular software development and everything related to a computer, and I love sharing my knowledge, working together as well as challenges. For the moment junior web developer and I work every day to improve myself</h3>
 
-## Developpeur web frontend
->Etudiant en Genie logiciel pour le moment. 
->De nationalite Burundaise j'habite à Bujumbura
->J'adore la programmation et tout ce qui concerne un ordinateur
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blaise28&label=Profile%20views&color=0e75b6&style=flat" alt="blaise28" /> </p>
 
-## Mes technologies :
+- Follow my evolution and that of my projects [https://blaise28.github.io/portfolio_beta/](https://blaise28.github.io/portfolio_beta/)
 
-<div text-align:center; display:flex; justify-content:space-around;>
-  <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/html.svg">
-  <img width="50px" height="auto" color="#fff" src="https://github.com/Blaise28/Blaise28/blob/master/images/css3_light.svg">
-  <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/JS.svg">
-  <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/Sass.svg">
-  <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/java.svg">
-  <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/mysql.svg">
-  <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/github_dark.svg">
-  <img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/VScode.svg">
-</div>
+- we can share on **HTML,CSS,Sass,JS,Git,Bootstrap,PHP**
 
-<br><br>
+- You can email me at **poseudo3@gmail.com**
 
-[![Mes stats sur github](https://github-readme-stats.vercel.app/api?username=Blaise28)](https://github.com/Blaise28/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/man34blaise" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="man34blaise" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/blaise-manirakiza28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blaise-manirakiza28" height="30" width="40" /></a>
+<a href="mailto:manirakizablaise3@gmail.com" target="blank">
+	<img width="30" height="40" align="center" src="https://github.com/Blaise28/Blaise28/blob/master/images/gmail.svg">
+</a>
+</p>
 
-<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaise28&theme=tokyonight)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-## Me contacter :
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blaise28&show_icons=true&locale=en&layout=compact" alt="blaise28" /></p>
 
- <div>
-	<a href="mailto:manirakizablaise3@gmail.com">
-		<img width="50px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/gmail.svg">
-	</a>
-	<a href="https://www.linkedin.com/in/blaise-manirakiza28">
-	  <img width="40px" height="auto"  src="https://github.com/Blaise28/Blaise28/blob/master/images/linkedin-icon-2.svg">
-	</a>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blaise28&show_icons=true&locale=en" alt="blaise28" /></p>
 
-* ### Mes centres d'interet
-  * Programmation 
-  * Musique
-  * Jeux Video
-  * Cinema
-  * BasketBall
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blaise28&" alt="blaise28" /></p>
+
