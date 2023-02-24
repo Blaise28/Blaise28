@@ -22,8 +22,8 @@
 <a href="https://twitter.com/man34blaise" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="man34blaise" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/blaise-manirakiza28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blaise-manirakiza28" height="30" width="40" /></a>
-<a href="mailto:manirakizablaise3@gmail.com" target="blank">
+<a href="https://linkedin.com/in/manblaise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manblaise" height="30" width="40" /></a>
+<a href="mailto:poseudo3@gmail.com" target="blank">
 	<img width="30" height="40" align="center" src="https://github.com/Blaise28/Blaise28/blob/master/images/gmail.svg">
 </a>
 </p>
