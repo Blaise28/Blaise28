@@ -13,7 +13,7 @@
 
 - Follow my evolution and that of my projects [https://blaise28.github.io/portfolio_beta/](https://blaise28.github.io/portfolio_beta/)
 
-- we can share on **HTML,CSS,Sass,JS,Git,Bootstrap,PHP**
+- we can share on **HTML,CSS,Sass,JS,Git,Bootstrap,PHP,Mysql**
 
 - You can email me at **poseudo3@gmail.com**
 
