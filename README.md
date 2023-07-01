@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hello, I'm MANIRAKIZA Blaise Frontend Web Developer
+    Hello, I'm MANIRAKIZA Blaise </br> Frontend Web Developer
     
 </h1>
 <div align="center">
