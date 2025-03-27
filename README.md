@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blaise28&label=Profile%20views&color=0e75b6&style=flat" alt="blaise28" /> </p>
 
-- Ask me about **Angular,Mysql,Firebase,Bootstrap,Sass,Javascript**
+- Ask me about **Angular,Firebase,Bootstrap,Sass,Javascript, React , Astro, Tailwind css**
 
 - How to reach me **poseudo33@gmail.com**
 
