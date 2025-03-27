@@ -1,11 +1,6 @@
 <h2 align="center">
     Hello, I'm MANIRAKIZA Blaise
 </h2>
-<div align="center">
-  <a href="https://blaise28.github.io/portfolio_beta/">
-  	<img width="100px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/logo.svg">
-  </a>
-</div>
 
 <h3 align="center">Experienced front-end web developer, passionate about creating high-performance and innovative web applications. With over 5 years of experience, I have developed solid expertise in front-end development, allowing me to design and implement complex solutions. Now Lead Angular Developer, I am now responsible for technical direction and team management, contributing to the achievement of the company's objectives.</h3>
 
