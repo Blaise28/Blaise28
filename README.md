@@ -1,14 +1,13 @@
-<h1 align="center">
-    Hello, I'm MANIRAKIZA Blaise </br> Frontend Web Developer
-    
-</h1>
+<h2 align="center">
+    Hello, I'm MANIRAKIZA Blaise
+</h2>
 <div align="center">
   <a href="https://blaise28.github.io/portfolio_beta/">
   	<img width="100px" height="auto" src="https://github.com/Blaise28/Blaise28/blob/master/images/logo.svg">
   </a>
 </div>
 
-<h3 align="center">Passionate about IT, in particular software development and everything related to a computer, and I love sharing my knowledge, working together as well as challenges. For the moment junior web frontend developer and I work every day to improve myself</h3>
+<h3 align="center">Experienced front-end web developer, passionate about creating high-performance and innovative web applications. With over 5 years of experience, I have developed solid expertise in front-end development, allowing me to design and implement complex solutions. Now Lead Angular Developer, I am now responsible for technical direction and team management, contributing to the achievement of the company's objectives.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blaise28&label=Profile%20views&color=0e75b6&style=flat" alt="blaise28" /> </p>
 
